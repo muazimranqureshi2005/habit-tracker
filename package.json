@@ -9,8 +9,9 @@
     "test": "node --test",
     "db:setup": "node scripts/setup-db.js"
   },
-  "engines": {
-    "node": ">=20"
+"engines": {
+  "node": "22.x"
+}
   },
   "license": "MIT",
   "dependencies": {
